@@ -1,6 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# Tiny Tapeout 5MHz Ring Oscillator
+
+This is an extemely simple project for testing out the analog design flow.
 
 - [Read the documentation for project](docs/info.md)
 
