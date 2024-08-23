@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a single-pin analog design project.
+The design presents a 5MHz clock signal at the output pin ua[0].
 
 ## How to test
 
-Explain how to use your project
+The design will be automatically enabled when selected on the evaluation board.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No extra hardware required.
